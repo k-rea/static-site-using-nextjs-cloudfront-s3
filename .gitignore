@@ -1,0 +1,10 @@
+# Environment
+.envrc
+
+# IDE setting
+.idea
+
+# Terraform
+.terraform
+terraform.tfstate*
+.terraform.lock.hcl
