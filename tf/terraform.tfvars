@@ -1,1 +1,2 @@
-name    = "template-cloudfront-s3-static-website"
+name    = "static-site-using-nextjs-cloudfront-s3"
+
